@@ -30,7 +30,7 @@ I'm a BCA (Artificial Intelligence) student at the University of Kerala, buildin
 | Role | Company | Period |
 |---|---|---|
 | AI & Product Intern | [PLACED](https://placededu.com) | Apr 2026 – Jul 2026 |
-| AI/ML Intern | [EvoAstra Ventures Pvt. Ltd.](htpps://evoastra.in) | Feb 2026 – Mar 2026 |
+| AI/ML Intern | [EvoAstra Ventures Pvt. Ltd.](https://www.evoastra.in/) | Feb 2026 – Mar 2026 |
 
 ---
 
