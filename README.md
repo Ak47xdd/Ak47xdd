@@ -110,7 +110,7 @@ Real-time student analytics dashboard tracking 8 placement KPIs across live Supa
 ### [Job Description Analysis (JobAuto)](https://github.com/Ak47xdd/JobAuto)
 NLP pipeline that analyzes job descriptions to extract required skills, seniority, and role responsibilities, performs candidate-job matching, and generates concise summaries and suggested interview questions. Deployed as a Streamlit app for recruiters.
 
-`Python` `NLP` `spaCy` `Transformers` `Streamlit`
+`Python` `NLP` `PyTorch` `TF-IDF` `Scikit-learn` `CLI`
 
 ---
 
