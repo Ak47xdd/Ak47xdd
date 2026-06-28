@@ -80,37 +80,37 @@ I'm a BCA (Artificial Intelligence) student at the University of Kerala, buildin
 ## Featured Projects
 
 ### [EduBuddy Chatbot](https://github.com/Ak47xdd/EduBuddy-Chatbot)
-AI-powered chatbot for PLACED's EdTech platform — FastAPI + Groq LLM + modular agent architecture. Deployed live at [placededu.com](https://placededu.com) with a round-robin load balancer across two Render instances for improved availability.
+AI-powered chatbot for PLACED's EdTech platform — FastAPI + Groq LLM + modular agent architecture. Deployed live at [placededu.com](https://placededu.com) with a round-robin load balancer across[...]
 
 `FastAPI` `Groq` `Python` `Next.JS` `Docker` `Render`
 
 ---
 
 ### [PLACED Student Dashboard](https://github.com/Ak47xdd/Dashboard-Placed)
-Real-time student analytics dashboard tracking 8 placement KPIs across live Supabase data. Multi-filter, auto-refresh every 30 seconds, CSV export. Live at [students-dashboard-placed.streamlit.app](https://students-dashboard-placed.streamlit.app).
+Real-time student analytics dashboard tracking 8 placement KPIs across live Supabase data. Multi-filter, auto-refresh every 30 seconds, CSV export. Live at [students-dashboard-placed.streamlit.app[...]
 
 `Streamlit` `Plotly` `Supabase` `Kubernetes` `Docker` `GitHub Actions`
 
 ---
 
 ### [Building Energy Anomaly Detection & RAG Assistant](https://github.com/Ak47xdd/building-energy-anomaly-detection)
-3-model ensemble anomaly detection (Isolation Forest + LOF + Elliptic Envelope, majority voting) on 140,000+ time-series energy records with FastAPI deployment. Integrated LangChain RAG pipeline over energy audit PDFs using ChromaDB + Groq Llama 3 + HuggingFace embeddings.
+3-model ensemble anomaly detection (Isolation Forest + LOF + Elliptic Envelope, majority voting) on 140,000+ time-series energy records with FastAPI deployment. Integrated LangChain RAG pipeline o[...]
 
 `Scikit-learn` `FastAPI` `LangChain` `ChromaDB` `Groq` `HuggingFace`
 
 ---
 
 ### [MLAuto — ML Pipeline Framework in C](https://github.com/Ak47xdd/Automation)
-2,100+ line C-based code generator producing ready-to-run Python ML pipeline scripts. Supports 10+ Scikit-learn and PyTorch models across regression and classification. Modular CLI architecture with cross-platform support and MIT licence.
+2,100+ line C-based code generator producing ready-to-run Python ML pipeline scripts. Supports 10+ Scikit-learn and PyTorch models across regression and classification. Modular CLI architecture w[...]
 
 `C` `Python` `Scikit-learn` `PyTorch` `CLI`
 
 ---
 
-### [MedPred.AI — Medical Insurance Predictor](https://github.com/Ak47xdd/Medical-Insurance-Prediction)
-R² of 0.77 on 1,300+ medical records comparing 4 regression models. Deployed as a standalone Windows desktop app via Tkinter, PyInstaller, and Inno Setup — zero Python dependency for end users.
+### [Job Description Analysis (JobAuto)](https://github.com/Ak47xdd/JobAuto)
+NLP pipeline that analyzes job descriptions to extract required skills, seniority, and role responsibilities, performs candidate-job matching, and generates concise summaries and suggested interview questions. Deployed as a Streamlit app for recruiters.
 
-`Python` `Scikit-learn` `Tkinter` `PyInstaller` `Inno Setup`
+`Python` `NLP` `spaCy` `Transformers` `Streamlit`
 
 ---
 
