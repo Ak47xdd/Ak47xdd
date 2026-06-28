@@ -18,7 +18,7 @@
 I'm a BCA (Artificial Intelligence) student at the University of Kerala, building AI systems that go beyond notebooks and into production.
 
 - Built **EduBuddy** — a Groq-powered AI chatbot live at [placededu.com](https://placededu.com), handling real-time student queries with a round-robin load balancer across two Render deployments
-- Shipped a **real-time analytics dashboard** tracking 8 student placement KPIs, live at [students-dashboard-placed.streamlit.app](https://students-dashboard-placed.streamlit.app)
+- Shipped a **real-time analytics dashboard** tracking 8 student placement KPIs
 - Built a **3-model anomaly detection ensemble** (Isolation Forest + LOF + Elliptic Envelope) on 140,000+ time-series energy records with FastAPI deployment
 - Engineered a **LangChain RAG pipeline** (ChromaDB + Groq Llama 3 + HuggingFace embeddings) for natural language querying over energy audit PDFs
 - Created **MLAuto** — a 2,100+ line C-based ML automation framework generating production-ready Python ML pipeline scripts
