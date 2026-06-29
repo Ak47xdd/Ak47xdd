@@ -87,7 +87,7 @@ AI-powered chatbot for PLACED's EdTech platform — FastAPI + Groq LLM + modular
 ---
 
 ### [PLACED Student Dashboard](https://github.com/Ak47xdd/Dashboard-Placed)
-Real-time student analytics dashboard tracking 8 placement KPIs across live Supabase data. Multi-filter, auto-refresh every 30 seconds, CSV export. Live at [students-dashboard-placed.streamlit.app[...]
+Real-time student analytics dashboard tracking 8 placement KPIs across live Supabase data. Multi-filter, auto-refresh every 30 seconds, CSV export[...]
 
 `Streamlit` `Plotly` `Supabase` `Kubernetes` `Docker` `GitHub Actions`
 
