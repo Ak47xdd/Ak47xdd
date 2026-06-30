@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akshay Babu</h1>
 
 <p align="center">
-  <b>AI & Product Intern @ PLACED · BCA Artificial Intelligence · University of Kerala '28</b><br/>
+  <b>AI & Product Intern @ PLACED · AI/ML Intern @ Evoastra · BCA Artificial Intelligence · University of Kerala '28</b><br/>
   Building production AI systems — from LLM-powered chatbots to real-time analytics platforms
 </p>
 
