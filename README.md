@@ -107,7 +107,7 @@ Real-time student analytics dashboard tracking 8 placement KPIs across live Supa
 
 ---
 
-### [Job Description Analysis (JobSelect)](https://github.com/Ak47xdd/Job-Description-Analysis)
+### [Job Description Analysis (JobSelect CLI & JobAnalyze 6k)](https://github.com/Ak47xdd/Job-Description-Analysis)
 NLP pipeline that analyzes job descriptions to extract required skills, seniority, and role responsibilities, performs candidate-job matching, and generates concise summaries and suggested interview questions. Deployed as a Streamlit app for recruiters.
 
 `Python` `NLP` `PyTorch` `TF-IDF` `Scikit-learn` `CLI`
